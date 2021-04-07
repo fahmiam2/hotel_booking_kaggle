@@ -69,3 +69,7 @@ This data set contains a single file which compares various booking information 
 ## Task
 ### Task Details
 Can we predict the possibility of a booking for a hotel based on cancellation as the target?
+
+# License 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
